@@ -1,0 +1,18 @@
+.user-container {
+  background-color: aqua;
+  display: flex;
+  width: 40%;
+}
+
+.profil-picture {
+  background-color: aquamarine;
+  width: 50px;
+  height: 50px;
+}
+
+.user-name {
+
+}
+
+.user-info-text {
+}

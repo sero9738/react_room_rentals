@@ -1,0 +1,25 @@
+p {
+  font-weight: 400;
+  font-size: 13px;
+  margin: 0.4em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 15px;
+  margin: 0.4em;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.color-white{
+  color: #eff6ff;
+}
+
+.color-black{
+  color: black;
+}
+
+.color-blue{
+  color: #0EA5E9;
+}

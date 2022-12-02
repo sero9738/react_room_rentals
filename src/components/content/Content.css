@@ -1,0 +1,8 @@
+.content-container {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    flex-wrap: wrap;
+    overflow: hidden;
+    padding-block: 1em;
+}

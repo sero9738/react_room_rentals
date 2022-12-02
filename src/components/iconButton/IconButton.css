@@ -1,0 +1,20 @@
+.icon-button {
+  padding: 0.3em;
+  display: flex;
+  gap: 0.5em;
+}
+
+.icon-color-black {
+  background-color: white;
+  color: black
+}
+
+.icon-color-white {
+  background-color: black;
+  color: white;
+}
+
+.icon-color-blue {
+  background-color: white;
+  color: #0EA5E9;
+}
